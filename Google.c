@@ -33,5 +33,6 @@ int main()
     printf("Enter your string\n");
     gets(str);
     recur(str);
+    printf("Please help in making this code which takes in input the string and returns the first recurring character.\n");
     return 0;
 }
